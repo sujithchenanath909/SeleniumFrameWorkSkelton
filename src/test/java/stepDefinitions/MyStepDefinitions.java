@@ -12,7 +12,8 @@ import io.cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 public class MyStepDefinitions {
-
+    
+    //step definition
     @Given("^user is on netbanking loginpage$")
     public void user_is_on_netbanking_loginpage() throws Throwable {
       System.out.println("Navigate to login page");
