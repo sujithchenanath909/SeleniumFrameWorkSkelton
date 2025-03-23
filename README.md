@@ -1,1 +1,1 @@
-Sample Selenium framework skelton with testng framewwork
+Sample Selenium framework skelton with testng framework .
